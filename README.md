@@ -6,4 +6,4 @@
 ![https://twitter.com/agriffard](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![https://www.linkedin.com/in/agriffard/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-You can to support my work with [GitHub Sponsors 💗](https://github.com/sponsors/agriffard) 
+You can to support my work with [GitHub Sponsors 💗](https://github.com/sponsors/agriffard) or [Buy me a coffe](https://www.buymeacoffee.com/agriffard).
